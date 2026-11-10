@@ -35,4 +35,5 @@ New Script that handles mana and regenerates it after a cooldown.
 ### PlayerMovement.cs
 Made movement code more concise and pretty.
 
-Playthrough Video Link: https://youtu.be/UZVg47cEo2k
+## Playthrough Video Link: 
+https://youtu.be/UZVg47cEo2k
